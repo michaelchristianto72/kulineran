@@ -1,0 +1,112 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telur.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telur.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Michael",
+      "noMeja": "3",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 5,
+            "kode": "K-05",
+            "nama": "Mie Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-goreng.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
